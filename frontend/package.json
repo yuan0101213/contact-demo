@@ -1,0 +1,9 @@
+{
+  "name": "contact-demo-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vite --host 127.0.0.1", "build": "vite build", "preview": "vite preview --host 127.0.0.1" },
+  "dependencies": { "vue": "^3.5.13", "element-plus": "^2.9.8", "axios": "^1.8.4" },
+  "devDependencies": { "vite": "^6.3.5", "@vitejs/plugin-vue": "^5.2.4" }
+}
